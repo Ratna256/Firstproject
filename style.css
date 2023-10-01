@@ -1,0 +1,40 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: burlywood;
+  text-align: center;
+  font-size: 5rem;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+h2{
+  color: whitesmoke;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+.color-title {
+  font-weight: normal;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
